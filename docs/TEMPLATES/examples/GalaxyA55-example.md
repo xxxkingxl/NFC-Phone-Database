@@ -4,7 +4,7 @@
 
 ## Device image
 
-![Samsung Galaxy A55 5G — official rear product view](../../../../assets/devices/samsung/galaxy-a/galaxy-a55-5g/official-rear.png)
+![Samsung Galaxy A55 5G — official rear product view](../../../assets/devices/samsung/galaxy-a/galaxy-a55-5g/official-rear.png)
 
 <sub>Official product image · Samsung · [Open the Samsung Galaxy A55 5G product page](https://www.samsung.com/uk/smartphones/galaxy-a/galaxy-a55-5g-awesome-navy-256gb-sm-a556bzkceub/)</sub>
 
