@@ -2,6 +2,14 @@
 
 > **Example page:** this file demonstrates the intended layout and level of detail. It is a researched example, but its variant coverage should still be expanded before treating it as a complete A55 NFC compatibility record.
 
+## Device image
+
+![Samsung Galaxy A55 5G — official rear product view](../../../../assets/devices/samsung/galaxy-a/galaxy-a55-5g/official-rear.png)
+
+<sub>Official product image · Samsung · [Open the Samsung Galaxy A55 5G product page](https://www.samsung.com/uk/smartphones/galaxy-a/galaxy-a55-5g-awesome-navy-256gb-sm-a556bzkceub/)</sub>
+
+> **Image slot:** replace the path above with the locally stored official product image for this exact model. Prefer a clean front/rear product render on a plain background, like the Samsung reference image. Keep this product-identification image separate from the NFC antenna diagram below; the antenna diagram should show the marked antenna area and remain the primary NFC evidence.
+
 ## NFC antenna location
 
 <figure>
